@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Autonomous system developer",
     bio: "I am an undergraduate research student in ASL(inha Automatic system lab) at Inha University.",
     email: "jinwooiminha@gmail.com",
-    linkedin: "morethanmin",
+    linkedin: "jinwoo-im-589a5a287",
     github: "AEInha",
     instagram: "",
   },
