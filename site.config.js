@@ -14,6 +14,9 @@ const CONFIG = {
     {
       name: `morethan-log`,
       href: "https://github.com/morethanmin/morethan-log",
+    },{
+      name: `supersonic`,
+      href: "https://supersonic.streamlit.app/",
     },
   ],
   // blog setting (required)
