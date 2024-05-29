@@ -19,6 +19,17 @@ const CONFIG = {
       href: "https://supersonic.streamlit.app/",
     },
   ],
+    services: [
+    {
+      name: "morethan-log",
+      href: "https://github.com/morethanmin/morethan-log"
+    },
+    {
+      name: "SuperSonic",
+      href: "https://supersonic.streamlit.app/"
+    },
+    // 더 많은 서비스 추가
+  ],
   // blog setting (required)
   blog: {
     title: "Autonomous-study",
