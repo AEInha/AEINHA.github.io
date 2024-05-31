@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "jinwooim",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Autonomous system developer",
-    bio: "I am an undergraduate research student in ASL(inha Automatic system lab) at Inha University.",
+    role: "Undergraduate student researcher",
+    bio: "I am an undergraduate research student in iASL(inha Autonomous system lab) at Inha University.",
     email: "jinwooiminha@gmail.com",
     linkedin: "jinwoo-im-589a5a287",
     github: "AEInha",
@@ -32,7 +32,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Autonomous-study",
+    title: "JinwooIm's Blog",
     description: "welcome my blog!",
   },
 
@@ -67,10 +67,10 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
-      "issue-term": "og:title",
+      repo: "AEInha/utterance",
+    "issue-term": "og:title",
       label: "💬 Utterances",
     },
   },
